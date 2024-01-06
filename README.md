@@ -5,7 +5,7 @@ IDE- VS Code.
 
 
 
-Built a News Portal using HTML,CSS and JAVASCRIPT. //
+Built a News Portal using HTML,CSS. //
 
 
 
